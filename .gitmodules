@@ -1,0 +1,4 @@
+[submodule "charts"]
+	path = charts
+	url = git@github.com:jyutping/charts.git
+	ignore = dirty
